@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Arras APM
 // @version      1.2.1
-// @author       ABC & Ray Adams
+// @author       ABC & Ray Adams & Zeus
 // @namespace    https://github.com/ABCxFF
 // @description  Standard for hooking into the client -> server connection in arras.io
 // @match        *://arras.io/*
@@ -12,7 +12,7 @@
 // @license      GPL-3.0
 // ==/UserScript==
 
-console.info("The userscript library 'APM' is no longer maintained, see https://github.com/Ray-Adams/Arras-Archive for more info.")
+console.info("The userscript library 'APM' is no longer maintained, see https://github.com/Ray-Adams/Arras-Archive for more info.\nEdited by Zeus")
 
 /****************************************************
  *
